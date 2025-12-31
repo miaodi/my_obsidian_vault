@@ -47,6 +47,10 @@
 ````
 This figure shows a bipartite graph, where $\left\{ a_2-b_2, a_3-b_3\right\}$ is a matching. An augmenting path is given by $\left\{ a_1-b_2-a_2-b_3-a_3-b_4 \right\}$. Vertices $a_1, b_1, a_4, b_4, a_5$ and $b_5$ are free.
 # Maximum matching
-
+Given some matching $M$ and an augmenting path $P$, we define: 
+$$M'=M\bigoplus P = (M\backslash P)\cup (P \backslash M)$$ Then, $M'$ is also a matching with $|M'|=|M|+1$.
+## Theorem
+For a given bipartite graph $G$, a matching $M$ is maximum if and only if $G$ has no augmenting paths with respect to $M$.
+Proof, see  [ChatGPT](https://chatgpt.com/s/t_691a66b24bf48191ba65c0c36e65f4aa). 
 
 # Reference 
