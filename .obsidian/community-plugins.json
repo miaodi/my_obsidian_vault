@@ -1,4 +1,7 @@
 [
   "obsidian-tikzjax",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-local-rest-api",
+  "latex-algorithms",
+  "pseudocode-in-obs"
 ]
