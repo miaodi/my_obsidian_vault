@@ -11,10 +11,14 @@
             "id": "4d06d04a4001c132",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Research/Contact Mechanics/Discussions/Burman et al. (2016)/Contact constraints - active sets, KKT conditions, and augmented Lagrangians.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contact constraints - active sets, KKT conditions, and augmented Lagrangians"
             }
           }
         ]
@@ -42,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -182,32 +186,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "4d06d04a4001c132",
   "lastOpenFiles": [
-    "Gram-Schmidt process.md",
-    "Attachments",
+    "Research/Contact Mechanics/Burman et al. (2016) - Augmented Lagrangian finite elements.md",
+    "Research/Contact Mechanics/Discussions/Burman et al. (2016)/Equation 2.1 - Contact complementarity.md",
+    "Research/Contact Mechanics/Discussions/Burman et al. (2016)/Contact constraints - active sets, KKT conditions, and augmented Lagrangians.md",
     "Notes/QR factorization.md",
     "Notes/Krylov subspace methods.md",
     "Notes/Gram-Schmidt process.md",
-    "Notes/CS224W.md",
     "Notes/Bipartite matching.md",
+    "Notes/CS224W.md",
+    "Gram-Schmidt process.md",
+    "Attachments",
     "Notes",
     "Krylov subspace methods.md",
     "Research/Contact Mechanics/Discussions/Belgacem et al. (1998)/Nodal versus integral contact constraints.md",
     "Research/Contact Mechanics/Belgacem et al. (1998) - Mortar contact analysis.md",
     "Research/Contact Mechanics/Discussions/Belgacem et al. (1998)",
     "Research/Contact Mechanics/Discussions",
-    "Research/Contact Mechanics/Burman et al. (2016) - Augmented Lagrangian finite elements.md",
     "Research/Contact Mechanics/Belgacem et al. (1998)/Discussion - Nodal versus integral contact constraints.md",
     "Research/Contact Mechanics/Belgacem et al. (1998)",
     "Attachments/lec18.pdf",
@@ -224,7 +230,6 @@
     "Research/Contact Mechanics/Laursen and Simo (1993) - Large deformation frictional contact.md",
     "Research/Contact Mechanics/Simo et al. (1985) - Perturbed Lagrangian contact.md",
     "Research/Contact Mechanics/Popp and Wall (2014) - Dual mortar overview.md",
-    "Research/Contact Mechanics/Hu et al. (2018) - Skew-symmetric Nitsche IGA.md",
     "Research/Contact Mechanics",
     "Research",
     "未命名.base",

@@ -145,3 +145,7 @@ Second-reading questions: Which multiplier modes would remain uncontrolled witho
 | Jump stabilization | controls | Discontinuous multiplier approximation | Proposition 3.3; Lemma 4.1 | Proved mechanism |
 
 [Back to the contact mechanics reading map](Contact%20Mechanics%20-%20Review%20Index.md)
+
+## Discussions
+
+- [[Discussions/Burman et al. (2016)/Contact constraints - active sets, KKT conditions, and augmented Lagrangians|Contact constraints: active sets, KKT conditions, and augmented Lagrangians]]
